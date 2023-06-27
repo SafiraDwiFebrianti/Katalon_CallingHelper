@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "12D7470B8BE1E5D33D6826F19B8CEA6F",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Helper_Change_Ticket_Type",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

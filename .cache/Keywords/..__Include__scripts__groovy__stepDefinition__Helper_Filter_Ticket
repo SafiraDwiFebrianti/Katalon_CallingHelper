@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "880F652E783378C46CA1E0CEEC608428",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Helper_Filter_Ticket",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

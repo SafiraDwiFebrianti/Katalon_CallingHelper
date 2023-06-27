@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "684A099552916B91DE83D72262182D1A",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Helper_Lock_Ticket",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
